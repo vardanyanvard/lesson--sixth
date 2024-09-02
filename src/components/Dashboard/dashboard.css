@@ -1,0 +1,8 @@
+.dashboardContentWrapper {
+  width: 60%;
+  height: 80vh;
+  box-shadow: 5px 4px 6px 5px gray;
+  display: grid;
+  grid-template-rows: 80px 1fr;
+  padding: 16px;
+}

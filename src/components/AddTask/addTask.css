@@ -1,0 +1,34 @@
+.addTaskContentWrapper {
+  width: 100%;
+  height: 80px;
+  box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.2);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  display: grid;
+  grid-template-rows: 10px 1fr;
+}
+
+.addTaskContentWrapper form {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 150px;
+  gap: 10px;
+}
+
+.addTaskContentWrapper input {
+  padding: 16px 5px;
+  outline: none;
+  border: 1px solid gray;
+  border-radius: 4px;
+  font-family: "Inter-400";
+}
+
+.addTaskContentWrapper button {
+  cursor: pointer;
+  border: none;
+  background-color: rgb(1, 43, 43);
+  color: white;
+  border-radius: 4px;
+  font-family: "Inter-400";
+}

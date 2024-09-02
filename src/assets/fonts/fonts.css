@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Inter-400";
+  src: url("./Inter/Inter18pt-Regular.eot");
+  src: url("./Inter/Inter18pt-Regular.eot?#iefix") format("embedded-opentype"),
+    url("./Inter/Inter18pt-Regular.woff2") format("woff2"),
+    url("./Inter/Inter18pt-Regular.woff") format("woff"),
+    url("./Inter/Inter18pt-Regular.ttf") format("truetype"),
+    url("./Inter/Inter18pt-Regular.svg#svgFontName") format("svg");
+}

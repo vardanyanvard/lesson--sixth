@@ -1,0 +1,42 @@
+.taskItemContent {
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 5px rgba(128, 128, 128, 0.555);
+  gap: 10px;
+  padding: 10px;
+  justify-content: center;
+  font-family: "Inter-400";
+}
+
+.taskItemContent {
+  font-size: 14px;
+}
+
+.itemTextContent {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.itemTextContent p {
+  font-size: 16px;
+}
+
+.itemTextContent button {
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.taskItemContent img {
+  width: 30%;
+  height: 80px;
+  margin-left: 35%;
+}
+
+select {
+  box-shadow: 0 0 4px;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+}

@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": "bebd",
+      "text": "main",
+      "status": "unstarted"
+    },
+    {
+      "id": "b5eb",
+      "text": "homework",
+      "status": "unstarted"
+    },
+    {
+      "id": "8e4f",
+      "text": "your work",
+      "status": "unstarted"
+    },
+    {
+      "id": "b3f6",
+      "text": "masha",
+      "status": "unstarted"
+    }
+  ]
+}
